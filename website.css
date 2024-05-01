@@ -1,0 +1,42 @@
+h3{
+    color: rgb(59, 246, 94);
+}   
+
+.cart-2{
+    background-color: rgb(255, 216, 19);
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    margin-right: 6px;
+    height: 20px;
+    width: 100px;
+    transition: opacity 0.15s;
+}
+.cart-2:hover {
+    opacity: 0.7;
+}
+
+.cart-2:active {
+    opacity: 0.3;
+}
+.buy-2{
+    background-color: rgb(255, 152, 55);
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;            margin-right: 6px;
+    height: 20px;           width: 75px;
+    transition: opacity 0.15s;
+}
+.buy-2:hover {
+    opacity: 0.7;
+}
+.buy-2:active {
+    opacity: 0.3;
+}
+a{
+    color: rgb(211, 43, 226);
+    transition: color 0.1s;
+}
+a:hover {
+    color: blue;
+}
